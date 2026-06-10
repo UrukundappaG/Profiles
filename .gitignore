@@ -1,11 +1,4 @@
-# Ignore Microsoft Office temp files and common OS artifacts
-~$*
-*.tmp
-*.temp
-~*.docx
-~*.doc
-~*.xlsx
-~*.pptx
+# Common OS and editor artifacts
 Thumbs.db
 Desktop.ini
 .DS_Store
