@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Logical Architecture">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ui" value="Angular UI" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ctrl" value="API Controllers" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="svc" value="Application Services" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="repo" value="Repositories (EF Core)" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="db" value="SQL Database" style="shape=cylinder;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="220" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

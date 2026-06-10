@@ -1,0 +1,48 @@
+<mxfile modified="2026-01-08T10:00:00.000Z" agent="draw.io" version="22.1.3" type="device">
+  <diagram id="edge-1" name="Experience & Edge">
+    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" page="1" pageScale="1"
+      pageWidth="1100" pageHeight="850">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="user" value="Customer / Agent / Partner"
+          style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc"
+          vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="220" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="fd" value="Azure Front Door (Global Edge)"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="waf" value="Application Gateway + WAF"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ui" value="Web / Mobile UI (Angular / React)"
+          style="rounded=1;whiteSpace=wrap;html=1"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" edge="1" parent="1" source="user" target="fd">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e2" edge="1" parent="1" source="fd" target="waf">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e3" edge="1" parent="1" source="waf" target="ui">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

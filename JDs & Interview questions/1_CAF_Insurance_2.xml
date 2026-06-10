@@ -1,0 +1,38 @@
+<mxfile modified="2026-01-08T10:00:00.000Z" agent="draw.io" version="22.1.3" type="device">
+  <diagram id="api-1" name="API & Integration">
+    <mxGraphModel dx="1000" dy="800" grid="1" page="1"
+      pageWidth="1100" pageHeight="850">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="apim" value="Azure API Management"
+          style="rounded=1;fillColor=#e1d5e7"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="320" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bff" value="BFF (.NET Core)"
+          style="rounded=1"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="320" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="svc" value="Insurance Microservices"
+          style="rounded=1"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="320" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" edge="1" parent="1" source="apim" target="bff">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e2" edge="1" parent="1" source="bff" target="svc">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

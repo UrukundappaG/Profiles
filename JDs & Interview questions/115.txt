@@ -1,0 +1,41 @@
+You are reviewing Terraform modules created to deploy Azure infrastructure (VNETs, NSGs, VMs). During deployment, you encounter:
+Remote backend state lock conflicts
+Secrets not being injected properly via Key Vault
+Inconsistent tagging policies across environments
+You are required to:
+Debug the root causes of the failures (locking, secrets, state file management)
+Propose how to inject secrets securely into Terraform using Azure Key Vault
+Enforce consistent tagging using policy modules or tagging strategies
+Suggest improvements to make modules reusable and drift-resistant
+ Please provide a written explanation or pseudocode for how you would identify and fix these issues.
+ 
+ 1. mport azke..
+ 2. Write code to connect string to connect keyvault
+ 3. loging az account AD account ID, secret or Pass keyvault
+ 4. pass 2 paramto the conn string
+ 5. build collection and push them to the Keyvault
+ 6. get the collect perticular to the service
+ 
+ use Azure Policy Azure Temp spect deployment stacks
+ VNet for management ( Firewals, WAF, ALB, Inger...), App VNet, DB VNet
+ 
+ Storage sub net, lb subnet, dbms sunbet, baston subnet, private endpoints, API subnet, Ingestion subnet 
+ security MS Defender subnet , fine scan subnet, file subnet, 
+ App VM NSG / ASG, DB, Business Inte, app VM NSG / ASG
+ 
+ 
+ 
+You are reviewing Terraform modules created to deploy Azure infrastructure (VNETs, NSGs, VMs). During deployment, you encounter:
+Remote backend state lock conflicts
+Secrets not being injected properly via Key Vault
+Inconsistent tagging policies across environments
+You are required to:
+Debug the root causes of the failures (locking, secrets, state file management)
+Propose how to inject secrets securely into Terraform using Azure Key Vault
+Enforce consistent tagging using policy modules or tagging strategies
+Suggest improvements to make modules reusable and drift-resistant
+Please provide a written explanation or pseudocode for how you would identify and fix these issues.
+
+
+value positioning and business case definition
+resource spikes, misconfigurations, or unexpected  consumption patterns.

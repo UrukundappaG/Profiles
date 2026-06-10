@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Experience & Edge">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/><mxCell id="1" parent="0"/>
+
+        <mxCell id="user" value="Customer / Agent / Partner" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="fd" value="Azure Front Door (Edge Routing)" style="rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="260" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="waf" value="App Gateway + WAF" style="rounded=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="260" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ui" value="Web / Mobile UI (Angular/React)" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="260" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="user" target="fd"/>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fd" target="waf"/>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="waf" target="ui"/>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

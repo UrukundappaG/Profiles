@@ -1,0 +1,14 @@
+Common Business Regions:
+EMEA: Europe, Middle East, and Africa.
+APAC: Asia-Pacific (East Asia, South Asia, Southeast Asia, Oceania).
+LATAM: Latin America (South America, Central America, Caribbean).
+NA/NAMER: North America (USA, Canada, sometimes Mexico).
+AMER: Americas (North, Central, South). 
+Other Regional Groupings:
+MENA: Middle East & North Africa.
+MEA: Middle East & Africa (sometimes used instead of EMEA).
+UN Groups: African Group, Asia-Pacific Group, Eastern European Group, etc..
+WHO Regions: African Region, European Region, Western Pacific Region, etc.. 
+Web & Enterprise Architecture, Architecture Governance & Collaboration, Application Modernization & Cloud Platforms, People & Capability Development, Application Engineering & Delivery
+
+18002094168

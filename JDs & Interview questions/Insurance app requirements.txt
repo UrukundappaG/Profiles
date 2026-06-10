@@ -1,0 +1,12 @@
+Design an Enterprise grade architecture inline with MS CAF, Well architected framework using .Net Core and Azure detailing each azure and DotNet Core Services including multiregion edge locations Ha Resilient for the following Insurance app requirements
+
+Feature 1: unified, end-to-end policy administration
+Feature 2: intelligent claims automation (straight-through processing)
+Feature 3: advanced, predictive underwriting engine
+Feature 4: centralised customer 360-degree view (integrated CRM)
+Feature 5: cloud-native, API-first architecture
+Feature 6: ecosystem integration via open APIs and microservices
+Feature 7: integrated financial, actuarial and reporting tools
+Feature 8: real-time regulatory and governance automation
+Feature 9: omnichannel self-service and policy portals
+Feature 10: enterprise-grade data security and privacy controls

@@ -1,0 +1,44 @@
+Prasashi inputs on Behaviorial round interview questions.
+
+Every question should be answered in star based.
+Self introduction and interviewer intruction.
+
+what motivates you to join you BP 
+what is the reason you left current organizatrion
+what is toughest siutation you faced related to complaince and what is your approach to align with it, were there any organizatrion touch decision related security or complaince, if yes, how did you handled it and what kind of impact does that decision had on you and  your carrier
+How did you  keep  you to update with the industry
+what motivates you day to day work at your work place
+what kind of process improvement you  had suggested and created new and what that change implications were on the organizatrion
+Put yourself into a other's shoes and arrive at a proper decision.
+
+Risk and tech debt matrixBP (British Petroleum) is primarily a massive, integrated energy company (oil, gas, renewables) selling physical products like fuel and chemicals, but within its large IT/Tech divisions, it operates much like a large product-based tech company for its internal systems, developing software for trading, logistics, and energy management, rather than just offering outsourced IT services. 
+
+Route the order to the nearest store that can fulfil it
+Eenable store staff to pick and pack efficiently
+Dssing the right driver to deliver it within SLA
+Handle stock issue, peak load, and exceptions
+Provide real-time tracking to the customer
+
+While migrating a C++ on-prem app with alomost 0.2 million lines of code to azure using Team City, Octopus, ASP.Net core, C#, MVC, Angular 2.0, Repository patterns, Dependency Injuction, Wrapper over C++ libraries had below mentioned implecations after SOW sign off and high level archiectue architecure desing and goverance was built kick started the Delivery:  
+A huze development team with 20+ scrum teams each consists of 6 - 8 techies and a young architecture goverance team
+Regular incorrect practices over an by implementations teams 
+a thin layer of comms between ops and delivery and internal stakeholders
+Consistent client demo failures and delays
+Incorrect testing practices
+Loosing the client trust
+
+At one point of time client had given only 2 months of dead line after patient observation of above issues over 17+ months and wanted to pull back with payback penalties, at that junctue I jumped in and started with some of the stick practice and process changes like below.
+
+Regular and interteam reviews of design, code. 
+An open forum and opportinuty for the teams to prove and excel and come farward with and full lenght working module for client demo within 3 weeks of time, 
+you (chatGPT) can some more best practices to address above issues and enhance your answer for the above question.
+
+Sage’s legacy desktop-based "Columbus" application, an accounting and ERP software modranized into Sage CNA 2.0 (Columbus North America)  cloud-native, mobile-accessible web application
+
+I prefer BP over Collabera Digital 
+
+BP (British Petroleum) is primarily a massive, integrated energy company (oil, gas, renewables) selling physical products like fuel and chemicals, but within its large IT/Tech divisions, it operates much like a large product-based tech company for its internal systems, developing software for trading, logistics, and energy management, rather than just offering outsourced IT services. 
+VS
+
+ Collabera Digital (now integrating into Ascendion) is evolving from traditional staffing to digital engineering,
+

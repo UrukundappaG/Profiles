@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="CI-CD">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="git" value="Git Repository" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pipeline" value="Azure DevOps Pipeline" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="deploy" value="Deploy to App Services" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="260" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

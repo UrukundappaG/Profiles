@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Azure Multi-Region AKS - Full Enterprise Connectivity">
+    <mxGraphModel dx="2000" dy="1300" grid="1" gridSize="10">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Private DNS -->
+        <mxCell id="dns" value="Azure Private DNS Zones&#10;• privatelink.database.windows.net&#10;• privatelink.azurecr.io"
+          style="rounded=1;fillColor=#eaf2ff;strokeColor=#4472c4;"
+          vertex="1" parent="1">
+          <mxGeometry x="40" y="1060" width="420" height="90"/>
+        </mxCell>
+
+        <!-- Firewall -->
+        <mxCell id="fw" value="Azure Firewall&#10;• Egress Control&#10;• Threat Protection"
+          style="rounded=1;fillColor=#fde9d9;strokeColor=#c65911;"
+          vertex="1" parent="1">
+          <mxGeometry x="520" y="1060" width="300" height="80"/>
+        </mxCell>
+
+        <!-- NSG -->
+        <mxCell id="nsgE" value="NSG (East Spoke)&#10;• Ingress rules&#10;• Egress rules"
+          style="rounded=1;fillColor=#f2f2f2;strokeColor=#7f7f7f;"
+          vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="240" height="70"/>
+        </mxCell>
+
+        <mxCell id="nsgW" value="NSG (West Spoke)&#10;• Ingress rules&#10;• Egress rules"
+          style="rounded=1;fillColor=#f2f2f2;strokeColor=#7f7f7f;"
+          vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="240" height="70"/>
+        </mxCell>
+
+        <!-- Observability -->
+        <mxCell id="obs" value="Azure Monitor / Log Analytics / App Insights"
+          style="rounded=1;fillColor=#e2f0d9;strokeColor=#548235;"
+          vertex="1" parent="1">
+          <mxGeometry x="1240" y="1060" width="460" height="80"/>
+        </mxCell>
+
+        <!-- DNS Resolution Flows -->
+        <mxCell id="dns1" edge="1" parent="1"
+          source="aksE" target="dns"
+          style="endArrow=open;dashed=1;strokeColor=#4472c4;"/>
+        <mxCell id="dns2" edge="1" parent="1"
+          source="aksW" target="dns"
+          style="endArrow=open;dashed=1;strokeColor=#4472c4;"/>
+
+        <!-- Firewall Egress -->
+        <mxCell id="fw1" edge="1" parent="1"
+          source="aksE" target="fw"
+          style="endArrow=block;strokeColor=#c65911;"/>
+        <mxCell id="fw2" edge="1" parent="1"
+          source="aksW" target="fw"
+          style="endArrow=block;strokeColor=#c65911;"/>
+
+        <!-- NSG Boundaries -->
+        <mxCell id="nsgFlowE" edge="1" parent="1"
+          source="apimE" target="aksE"
+          style="endArrow=open;dashed=1;strokeColor=#7f7f7f;"/>
+        <mxCell id="nsgFlowW" edge="1" parent="1"
+          source="apimW" target="aksW"
+          style="endArrow=open;dashed=1;strokeColor=#7f7f7f;"/>
+
+        <!-- Observability Flows -->
+        <mxCell id="obs1" edge="1" parent="1"
+          source="aksE" target="obs"
+          style="endArrow=open;dashed=1;strokeColor=#548235;"/>
+        <mxCell id="obs2" edge="1" parent="1"
+          source="aksW" target="obs"
+          style="endArrow=open;dashed=1;strokeColor=#548235;"/>
+        <mxCell id="obs3" edge="1" parent="1"
+          source="sqlRW" target="obs"
+          style="endArrow=open;dashed=1;strokeColor=#548235;"/>
+        <mxCell id="obs4" edge="1" parent="1"
+          source="sqlRO" target="obs"
+          style="endArrow=open;dashed=1;strokeColor=#548235;"/>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

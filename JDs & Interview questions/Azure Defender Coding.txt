@@ -1,0 +1,25 @@
+using Azure.Storage.Blobs;
+
+using Azure.Storage.Blobs.Models;
+
+
+
+// ... Authentication setup
+
+
+
+// Get a reference to the blob
+
+BlobClient blobClient = new BlobClient(connectionString, containerName, blobName);
+
+
+
+// Fetch blob properties including tags
+
+BlobProperties properties = blobClient.GetProperties().Value;
+
+
+
+// Access scan results from tags
+
+string malwareStatus = properties.Metadata["DefenderScanResult"]; // Example key

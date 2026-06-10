@@ -1,0 +1,110 @@
+Kubernetes - https://www.youtube.com/watch?v=s_o8dwzRlu4
+https://www.youtube.com/watch?v=X48VuDVv0do
+https://www.perplexity.ai/search/target-and-achievement-for-a-p-zmtIGVvIQ1aDevrCSxsoiw
+https://www.perplexity.ai/search/the-average-deal-win-rate-for-qqr1oAMUTJW.gv8JkkbwYw
+
+
+https://www.linkedin.com/learning/microsoft-azure-fundamentals-az-900-cert-prep-by-microsoft-press/exam-az-900-microsoft-azure-fundamentals?courseClaim=AQFHZAO8iRnRHwAAAZbCM0xh0bWSmdkdVGsWoZmnUVWbwH2SPN-UyiY899vb4r4G-t53e9EoQcY8R-Fr9CTG6rafxmhmbDcDhcrIkEURcSR81gctmZXzHQ7-yW_MDs_1CScXN-Eh4pknOPoX7zD-5_ePNXO3ZcFSPN6cjajJJzd4ZsXZLD4K4ECTCZPcb8A-o8dcXHkB-DwRohpT440qJXrtxWzzkJUlZWL24xc81Kb4ZL5sUSHRNvnkkfTxrpG-LkUrGYYTvfJQgkd6y0hY6gi2sjahhidWQlBsoP1r5009UY3Vg3MsEPxNVjAv9GR4uLH-n5DgEDh6OgU594Vt2mJ7JENUkRU3aKRDxt_uk2AtK94hw03FDsAQj2363bmauc-xc4WL9nB7asKdWYkIE2Ro0kMhrn5vSZVrC6OSx88a29Tj48ovf9e4NMUFfj2T4-H8TKCmKgEkP7In3dNJItaa7SOz_uPNcjc93x9Q9apU74XD-CBlyM8dTHPYb28c_nG-Z8dD-8-_rF_Uq7m7sm8RxiEdZmoBwcK3kjJQWKzsCw4MTynuQs2qDYCpHEzXctfmeX2agpGERpuubUPrOlVEajlOWwUQGXOuDlEdyxcL17I2E3QYDwIPEeufCcBDNYG1_mflXNPt4kYLHiGmh9thuahDFkNIP2rUqlu-Vk-w2PbKDnOskZDCwnYmi0N_Uo8TGqPCZHKPN6lNDREJPlw9gIXxOOEZn548gawbCze30Y_c_Q7810l4wwHe9LERih2lnPzddP1SjlckUQMm5DVmx7FdBseKg4gmiPmfcRJjQXAPGWqVtT9bsRuAriYXPhPjS-3gKLXexFihM0Wc7Z-UisaFrVA_Dynuwm9RLRSOf9LDadlXi45lEeD3aDqwiTND-jFi_bKeOtetgrO7L2pG6-bb6ZIeoXZtCtlSg_J_fhLj6M_mbyUSH4HrmGqMLVQyXeTYHxjDbXlo5-0ZzXcoPrvD0FFaJHSej7fKSLBhz6SEowG8l-eQVBTeoCQ_OtJsLnOqOXejA2rZpoZjL5qTWKookccAQgXiG4N8cpqDoPOLVTNVv0w7G25eVmerEcIZREkS6cBJypTNYnbYgqPCDYCtXiY6C1yDcS6veHtBj8CJYKZ1JMLu7oE
+
+https://chatgpt.com/c/68215b57-c8dc-8012-bda9-b4fb6e306f12
+
+https://www.google.com/search?sca_esv=82417da8b1ec2ea8&rlz=1C1VDKB_enIN1129IN1129&q=microsoft+defender+malicious+file+alert+using+SignalR+and+function&source=lnms&fbs=ABzOT_AnTKjm8AsviXK_Zi7xykdSuyk-YwVDqt4nffcrgQ9wELFMbFpjO1og30mie3K8QSvCH-7bCHluX2dQKFbNeVkb8sPSLDN7xHN8m6Bqh4zkr0i92fTG_5RoCfVD9ZDAgHumngOvrO9Xvn1T6dUurNOGBplvjUHtRBtesQgXtnlQwS4Oxda61_-lUir2dG47MANaJSwvjr3msc7kXx5GlPS2ytBf37PjgqkZ77VlYc-Nn45sdB8&sa=X&ved=2ahUKEwiohvimudSMAxVVyDgGHbrQCKYQ0pQJegQIDBAB&biw=1280&bih=551&dpr=1.5
+https://github.com/microsoft/DefenderFileScanNotifier/blob/348db7fa82de45e4ae88118ddfe288d7331d2169/README.md
+https://www.next2it.co.uk/docker-swarm-vs-kubernetes-vs-openshift/
+
+*** https://chatgpt.com/c/681b4c1d-05d4-8012-86c9-7624c9ebd876 ***
+
+https://www.google.com/search?q=azure+data+warehouse+architecture&rlz=1C1VDKB_enIN1129IN1129&oq=Azure+dataw&gs_lcrp=EgZjaHJvbWUqCQgCEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEJMTYzNzdqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=9YW8FEhY4sTiDM&vssid=_4tsIaPGDL66Nvr0PpdPiwAc_40
+
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse
+
+https://www.linkedin.com/feed/?midToken=AQHIP6nae7DmPg&midSig=3hHz9WEuTF9rM1&trk=eml-email_member_message_v2-header-0-home_glimmer_static_badging_with_count&trkEmail=eml-email_member_message_v2-header-0-home_glimmer_static_badging_with_count-null-t0air~maba0576~2n-null-null&eid=t0air-maba0576-2n&otpToken=MTYwZDE5ZTIxMDJhYzBjZGJlMmYwMmVlNDAxYWUxYjU4Y2M2ZDM0MTk4YWQ4NTZmNzJjNTAyNmE0OTVjNWZmMWZjYTBkNGFiMTFlOWRlZmY2ZWZkNzdlYzkzMTEwYmFjYzlhN2JjNmNlODRhMTIzNzk0LDEsMQ%3D%3D
+https://www.solulab.com/building-intelligent-apps-with-agentic-ai/
+
+https://onecompiler.com/csharp
+
+https://www.linkedin.com/in/sivalingaamorthy/?originalSubdomain=in
+
+https://www.scholarhat.com/tutorial/aspnet/asp-net-core-interview-questions
+
+BFSI, Manufacturing, Retail, Healthcare & Lifesciences, Telecom, Automotive, Mining, Hospitality etc.
+https://learn.microsoft.com/en-us/training/modules/explore-api-management/3-api-gateways
+https://jwt.ms/
+https://www.geeksforgeeks.org/architecture-styles-in-distributed-systems/
+https://www.c-sharpcorner.com/article/reactjs-crud-using-net-core-web-api/
+https://www.c-sharpcorner.com/article/net-core-3-1-web-api-crud/
+
+***https://www.perplexity.ai/search/presales-architect-interview-q-dnbLbj0XQ.WbrL1Y3HpOvw ***
+
+https://www.geeksforgeeks.org/microservices-communication-patterns/?ref=ml_lbp#performance-considerations-for-synchronous-and-asynchronous-communication-patterns
+https://www.google.com/search?q=HD+Insight+vz+Data+factory+vs+Stream+Analytics+vs+Event+Hub%0D%0A&sca_esv=1aad7fe176146b69&sxsrf=AHTn8zqZ6D7WtkXTmgrIXQGPfnebU-OtzA%3A1740369027916&source=hp&ei=g-y7Z8i8Ne3j2roP_82GyQk&iflsig=ACkRmUkAAAAAZ7v6kx_SjkCrnOAqXGgu-rMRY8Ann1qR&ved=0ahUKEwiIir3ts9uLAxXtsVYBHf-mIZkQ4dUDCBo&uact=5&oq=HD+Insight+vz+Data+factory+vs+Stream+Analytics+vs+Event+Hub%0D%0A&gs_lp=Egdnd3Mtd2l6IjxIRCBJbnNpZ2h0IHZ6IERhdGEgZmFjdG9yeSB2cyBTdHJlYW0gQW5hbHl0aWNzIHZzIEV2ZW50IEh1YgpIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz
+
+https://in.indeed.com/career-advice/interviewing/solution-architect-interview-questions
+
+https://learn.microsoft.com/en-in/azure/cloud-adoption-framework/strategy/				
+
+https://www.google.com/search?q=the+top+most+8+common+threats+to+cyber+security&sca_esv=d0a8b3810471bc0b&sxsrf=ADLYWIK8-f0mWvvzBtJ5xB50rxYO6AhoZg%3A1732891545121&source=hp&ei=mdNJZ638BLPO1e8P1urtqAg&iflsig=AL9hbdgAAAAAZ0nhqY1LAEWpzGyy-eKqj2fvLvOjdf6_&oq=The+top+most+8+common+threats+&gs_lp=Egdnd3Mtd2l6Ih5UaGUgdG9wIG1vc3QgOCBjb21tb24gdGhyZWF0cyAqAggAMgcQIRigARgKMgcQIRigARgKSMrBAVAAWI-lAXAJeACQAQCYAd8BoAHEMKoBBjAuMjYuObgBAcgBAPgBAZgCLKACuDLCAgoQIxiABBgnGIoFwgILEAAYgAQYkQIYigXCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIREC4YgAQYsQMY0QMYgwEYxwHCAgUQLhiABMICBBAjGCfCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAgUQABiABMICCxAuGIAEGJECGIoFwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxiDARjUAsICCxAuGIAEGLEDGIMBwgILEC4YgAQYsQMY1ALCAhcQLhiABBixAx`ARjHARiKBRiOBRivAcICCxAuGIAEGLEDGOUEwgILEC4YgAQYxwEYrwHCAgcQABiABBgKwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICCBAAGBYYChgewgIEECEYFZgDAJIHBjkuMjYuOaAHuYEC&sclient=gws-wizhttps://www.google.com/search?q=the+top+most+8+common+threats+to+cyber+security&sca_esv=d0a8b3810471bc0b&sxsrf=ADLYWIK8-f0mWvvzBtJ5xB50rxYO6AhoZg%3A1732891545121&source=hp&ei=mdNJZ638BLPO1e8P1urtqAg&iflsig=AL9hbdgAAAAAZ0nhqY1LAEWpzGyy-eKqj2fvLvOjdf6_&oq=The+top+most+8+common+threats+&gs_lp=Egdnd3Mtd2l6Ih5UaGUgdG9wIG1vc3QgOCBjb21tb24gdGhyZWF0cyAqAggAMgcQIRigARgKMgcQIRigARgKSMrBAVAAWI-lAXAJeACQAQCYAd8BoAHEMKoBBjAuMjYuObgBAcgBAPgBAZgCLKACuDLCAgoQIxiABBgnGIoFwgILEAAYgAQYkQIYigXCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIREC4YgAQYsQMY0QMYgwEYxwHCAgUQLhiABMICBBAjGCfCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAgUQABiABMICCxAuGIAEGJECGIoFwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxiDARjUAsICCxAuGIAEGLEDGIMBwgILEC4YgAQYsQMY1ALCAhcQLhiABBixAxiDARjHARiKBRiOBRivAcICCxAuGIAEGLEDGOUEwgILEC4YgAQYxwEYrwHCAgcQABiABBgKwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICCBAAGBYYChgewgIEECEYFZgDAJIHBjkuMjYuOaAHuYEC&sclient=gws-wiz
+
+MMTBIGSAVER
+
+MMTSTAYS
+https://www.slideshare.net/slideshow/presales-solution-design-bid-management-an-overview/16785612#31
+https://www.linkedin.com/pulse/navigating-azure-migration-strategies-design-patterns-ahmed-ms-pmp-5dw1e/
+https://www.youtube.com/watch?v=jUcct8aQqhE
+https://www.youtube.com/watch?v=4fPRxveXGXw
+
+https://www.linkedin.com/pulse/pre-sales-solutions-architect-approach-david-rold%C3%A1n-mart%C3%ADnez/
+https://www.slideshare.net/slideshow/presales-solution-design-bid-management-an-overview/16785612#31
+https://www.netiq.com/documentation/advanced-authentication-64/server-administrator-guide/data/netiq_advanced_authentication_framework_overview.htmlhttps://www.netiq.com/documentation/
+
+https://www.linkedin.com/pulse/20140429155924-32533426-pre-sales-activities/
+
+PF - Login - https://passbook.epfindia.gov.in/MemberPassBook/home?token=KDCf6CwbwB2b7N7KxwKgk4Be6MtBJAMbrLFviW89gT8ulVfZe0KeRuL5BRuWgscIR1D370F6K6CQ0YTAZTjEr8snZ1Qyu7eHr6afohAw0wlNv0ZDTRHLkTaqBRlEuEej
+
+Aadhar Complaint - https://myaadhaar.uidai.gov.in/genricDownloadAadhaar/en 
+GDEE2007
+Diks@1155
+JEE App#-250311002236 - https://jeemain.nta.nic.in/online-application-form-for-jee-main-2025/
+Enrollment Number:4050/00110/01632
+UAN-100893399827
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+A/C No: 914010005139748
+AAdhar Complaint - S2030441448000 
+
+PF Number GJ/BRD/65250/39301
+
+Use aasc.b.sc.group.1996.1998@gmail.com and Scholars@1998-96
+
+https://github.com/iam-veeramalla/Azure-zero-to-hero/
+https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa
+https://log2base2.com/dsa/?lb_content=log2base2.com/&lb_cta=hmp-pkg-icon
+
+Your Feedback saved successfully for registration number: ROVAD/E/2024/09920
+Registration Number
+ROVAD/E/2024/09920
+
+1   GNGGN00055720000336740			₹ 0				HCL
+2   VDBRD00652500000039301			₹ 18,03,366		Collabera
+Total Balance						₹ 18,03,366
+
+
+
+Complaint Number S2030441448000 is registered with us. Please use the same to check the status of the complaint.
+https://www.naukri.com/blog/interview-questions-and-answers-master-guide-tips-hacks/?utm_campaign=avm&utm_medium=email&utm_source=blogLink1
+
+
+https://www.linkedin.com/pulse/understanding-go-to-market-strategy-vs-execution-josh-mcdonald-mwxcc/
+The balance between strategy and execution
+You can categorize your entire go-to-market plan into 5 categories:
+
+Who - Ideal Customer Profile and Buyer Archetypes
+What - Problem, Message, Value Propositions, and Unique Selling Proposition
+Where - You Target Market and Segments
+Why - Positioning and Your Strategic Narrative
+How - Your Revenue Operating Model, Channels, and Sales Process
+
+When you break it down this way, you can see that execution (the “how”) forms only about 20% of a successful GTM plan, while strategic planning constitutes a whopping 80%. That means many companies are skipping over 80% of this process.
+
+\\https://www.linkedin.com/in/urukundappa-gudise-a8339714/
+

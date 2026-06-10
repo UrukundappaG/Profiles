@@ -1,0 +1,10 @@
+Informatica, ETL, TIBCO and ADFS
+
+
+What are the main components of Dynamics CRM?
+Answer: The main components include:
+Sales Management: Tools for managing leads, opportunities, and sales processes.
+Customer Service: Features for case management, service scheduling, and support.
+Marketing Automation: Tools for campaign management, email marketing, and lead nurturing.
+Field Service: Solutions for managing field operations and service delivery.
+Project Service Automation: Tools for managing project-based services.

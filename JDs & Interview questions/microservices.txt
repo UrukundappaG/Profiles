@@ -1,0 +1,13 @@
+Aggregation: The API gateway can combine multiple backend microservices' responses into a single cohesive response to fulfill a client request. This reduces round-trips.
+Load balancing: The gateway can distribute incoming requests across multiple instances of the same microservice to ensure optimal resource utilization and high availability.
+Authentication and authorization: It can handle security-related concerns by authenticating clients and authorizing access to specific microservices.
+Caching: The API gateway can cache responses from microservices to improve performance and reduce redundant requests.
+Protocol translation: It can translate client requests from one protocol (e.g., HTTP/REST) to the appropriate protocol used by the underlying microservices.
+
+Isolation: Containers provide lightweight, isolated environments for running individual microservices. Each microservice can be packaged as a container image along with its dependencies, libraries, and runtime environment.
+Portability: Microservices packaged as containers can be easily moved and deployed across various infrastructure platforms, such as on-premises servers, public clouds, and hybrid environments.
+Consistency: By packaging microservices as container images, organizations can maintain consistent runtime environments and dependencies across different stages of the software development lifecycle.
+Resource Efficiency: Containers are lightweight and consume fewer resources compared to virtual machines (VMs). This resource efficiency is particularly beneficial in microservices architectures with large numbers of services and instances.
+Scalability: Containers support horizontal scaling, allowing organizations to scale individual microservices independently based on demand.
+Lifecycle Management: Containers provide tools and APIs for managing the lifecycle of microservices, including image creation, deployment, versioning, scaling, and orchestration.
+DevOps Practices: Containers align with DevOps practices and enable organizations to automate the software delivery pipeline from development to production.

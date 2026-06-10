@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Angular to AKS Real-Time Architecture">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Angular -->
+        <mxCell id="angular" value="Angular SPA&#10;(Browser)"
+          style="rounded=1;fillColor=#e1f5fe;strokeColor=#0288d1;"
+          vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="240" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Door -->
+        <mxCell id="afd" value="Azure Front Door&#10;WAF + TLS + WebSockets"
+          style="rounded=1;fillColor=#fce4ec;strokeColor=#c2185b;"
+          vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="300" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Ingress -->
+        <mxCell id="ingress" value="AKS Ingress Controller&#10;(NGINX / AGIC)"
+          style="rounded=1;fillColor=#ede7f6;strokeColor=#512da8;"
+          vertex="1" parent="1">
+          <mxGeometry x="820" y="60" width="300" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- ASP.NET Core -->
+        <mxCell id="api" value="ASP.NET Core API Pod&#10;Middleware Pipeline&#10;- Auth (JWT / Entra)&#10;- Logging / Correlation&#10;- Exception Handling&#10;- SignalR Middleware"
+          style="rounded=1;fillColor=#e8f5e9;strokeColor=#2e7d32;whiteSpace=wrap;"
+          vertex="1" parent="1">
+          <mxGeometry x="820" y="180" width="360" height="160" as="geometry"/>
+        </mxCell>
+
+        <!-- SignalR -->
+        <mxCell id="signalr" value="Azure SignalR Service&#10;(Managed Backplane)"
+          style="rounded=1;fillColor=#fff3e0;strokeColor=#ef6c00;"
+          vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="300" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Flows -->
+        <mxCell id="c1" edge="1" parent="1" source="angular" target="afd">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="c2" edge="1" parent="1" source="afd" target="ingress">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="c3" edge="1" parent="1" source="ingress" target="api">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="c4" edge="1" parent="1" source="api" target="signalr">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="c5" edge="1" parent="1" source="signalr" target="angular">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

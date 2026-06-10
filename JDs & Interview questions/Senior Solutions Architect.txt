@@ -1,0 +1,17 @@
+The Role:
+
+We're hiring a Senior Solutions Architect to engage with Imply customers, guiding them through the architecture, development, and operations of the Imply product and the open-source Druid data store. We're a small team with a quickly growing customer base, meaning you'll have a chance to have a big impact and wear multiple hats. Ideally, you have worked in a customer-facing role, intrigued by cutting-edge technical challenges and helped refine some of the largest and fastest big data architectures in the world.
+
+We are a collaborative and supportive team. We measure our individual success by how well our team collectively succeeds and by how well we push each other to grow professionally. We believe teams should have significant say in what they build and how, and therefore should be responsible for the eventual success of what they’re building for customers as well as our Imply team members who will sell, support, etc.
+
+You’ll have direct engagement with a broad set of teams and up to our C-suite, as well as ownership over how what you build drives value to our customers as well as to our broader product and organization. This is a direct customer engagement role and will require some travel.
+
+Responsibilities:
+
+You are the key player in the implementation and growth of our customer base
+You will be helping drive our implementations, and you'll do what it takes to help make them successful
+You will lead on-site and online services engagements
+You will be an expert in Druid and a technical evangelist for Imply
+You will play a key role in helping the company find and implement new and additional use cases
+You serve as a liaison to our engineering and product teams on customer requests and user experience
+You will act as another layer of support for our customers by triaging and helping support our customers, as needed

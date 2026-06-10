@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="API & Integration">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/><mxCell id="1" parent="0"/>
+
+        <mxCell id="apim" value="Azure API Management" style="rounded=1;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bff" value="BFF (.NET Core)" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="svc" value="Insurance Microservices" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="300" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" edge="1" parent="1" source="apim" target="bff"/>
+        <mxCell id="e2" edge="1" parent="1" source="bff" target="svc"/>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
